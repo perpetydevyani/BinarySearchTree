@@ -16,8 +16,8 @@ nodes, and invoke the traversal methods to display the tree structure.
 ## How to Run
 1.
      ```bash
-     javac filename.java
-     java filename
+     javac BinarySearchTree.java
+     java BinarySearchTree
      ```
 
 ## Sample Output
@@ -30,4 +30,5 @@ PostOrder: 20 40 30 60 80 70 50
 
 ## Author
 - P.Devyani
+
 
